@@ -48,7 +48,7 @@ Before installing Active Directory on the server, ensure these three conditions 
 
 ---
 
-### 🧠 Active Recall Questions (Test Yourself Later)
+### 🧠 Active Recall Questions (Test Later)
 * *What are the 3 prerequisites for installing Active Directory?*
 * *Where does AD store its database, and what are the two main folders created?* (Answer: `C:\Windows\NTDS` and `C:\Windows\SYSVOL`).
 * *Why must the Client PC's DNS point exactly to the Domain Controller's IP?*
