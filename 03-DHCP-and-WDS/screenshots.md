@@ -10,3 +10,14 @@ ip reservation:
 
 <img width="1295" height="566" alt="Screenshot 2026-07-24 at 11 18 36 AM" src="https://github.com/user-attachments/assets/37283aa8-863b-469b-9702-650f128489f9" />
 
+
+WDS:
+
+install.wim
+
+<img width="1086" height="693" alt="Screenshot 2026-07-24 at 6 26 15 PM" src="https://github.com/user-attachments/assets/0946d515-a650-47d1-a530-0d13a3b431eb" />
+
+boot.wim
+
+<img width="1075" height="661" alt="Screenshot 2026-07-24 at 6 28 22 PM" src="https://github.com/user-attachments/assets/38f72565-36b6-4e86-a237-a6a6443e19b7" />
+
