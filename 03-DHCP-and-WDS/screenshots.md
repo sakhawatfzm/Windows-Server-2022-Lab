@@ -6,3 +6,7 @@
 Dora Process:
 <img width="1252" height="618" alt="Screenshot 2026-07-24 at 10 56 09 AM" src="https://github.com/user-attachments/assets/c83d7b20-34be-4783-aa9b-980ebd3906f7" />
 
+ip reservation:
+
+<img width="1295" height="566" alt="Screenshot 2026-07-24 at 11 18 36 AM" src="https://github.com/user-attachments/assets/37283aa8-863b-469b-9702-650f128489f9" />
+
