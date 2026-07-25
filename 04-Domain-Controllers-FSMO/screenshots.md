@@ -16,5 +16,13 @@ Additional Server (ADC):
 
 
 
+ReadOnlyDomain:
+
+<img width="952" height="530" alt="Screenshot 2026-07-25 at 11 34 58 PM" src="https://github.com/user-attachments/assets/495e1a0d-f9bb-42bb-8a13-63bc5fdc13dc" />
+
+<img width="972" height="567" alt="Screenshot 2026-07-25 at 11 38 27 PM" src="https://github.com/user-attachments/assets/57cf2afe-3802-4343-b420-7a1d97d6ae48" />
+
+
+<img width="1002" height="579" alt="Screenshot 2026-07-25 at 11 56 56 PM" src="https://github.com/user-attachments/assets/acbf8c12-df5f-4ee8-ba07-4c8f59679326" />
 
 
