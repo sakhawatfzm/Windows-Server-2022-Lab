@@ -33,4 +33,10 @@ Read only domain:
 <img width="1019" height="645" alt="Screenshot 2026-07-26 at 12 07 17 AM" src="https://github.com/user-attachments/assets/245b3f4f-ba0d-476a-a20e-143e3de74a0b" />
 
 
+Test user delete in RODC:
+
+
+<img width="1038" height="652" alt="Screenshot 2026-07-26 at 12 21 46 AM" src="https://github.com/user-attachments/assets/6393a2bd-7533-493b-aa4d-141742cf253c" />
+
+
 
