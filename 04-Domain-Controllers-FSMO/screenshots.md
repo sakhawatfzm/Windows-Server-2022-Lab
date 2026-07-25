@@ -12,7 +12,8 @@ Create an OU in the main server (RootDC), and it is also synchronized on the Add
 Additional Server (ADC):
 
 
-<img width="1008" height="566" alt="Screenshot 2026-07-25 at 10 44 24 PM" src="https://github.com/user-attachments/assets/b35a38b4-ba57-4314-84c9-577f6ad0a24b" />
+<img width="944" height="433" alt="Screenshot 2026-07-25 at 10 52 08 PM" src="https://github.com/user-attachments/assets/ad953451-7ee4-4815-b83a-4a3b9b2bd023" />
+
 
 
 
