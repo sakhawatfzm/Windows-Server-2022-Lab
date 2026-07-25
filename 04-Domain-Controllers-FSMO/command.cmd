@@ -1,1 +1,1 @@
-
+netdom query fsmo
