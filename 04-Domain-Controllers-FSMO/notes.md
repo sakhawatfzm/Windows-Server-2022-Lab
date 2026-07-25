@@ -1,4 +1,5 @@
 Tasks:
+
 [1]- Root Domain Controller (Root DC) Setup Lab
 
 [2] - Additional Domain Controller (ADC) Lab & Replication
