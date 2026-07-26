@@ -38,5 +38,9 @@ Test user delete in RODC:
 
 <img width="1038" height="652" alt="Screenshot 2026-07-26 at 12 21 46 AM" src="https://github.com/user-attachments/assets/6393a2bd-7533-493b-aa4d-141742cf253c" />
 
+Delegate some tasks to RODC:
+
+<img width="988" height="532" alt="Screenshot 2026-07-26 at 10 56 29 AM" src="https://github.com/user-attachments/assets/de4f0b87-9b0f-47b0-8ba4-d3d73fae9a19" />
+
 
 
