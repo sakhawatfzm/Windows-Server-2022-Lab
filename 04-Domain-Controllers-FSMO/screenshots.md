@@ -43,4 +43,14 @@ Delegate some tasks to RODC:
 <img width="988" height="532" alt="Screenshot 2026-07-26 at 10 56 29 AM" src="https://github.com/user-attachments/assets/de4f0b87-9b0f-47b0-8ba4-d3d73fae9a19" />
 
 
+<img width="918" height="464" alt="Screenshot 2026-07-26 at 10 58 16 AM" src="https://github.com/user-attachments/assets/be4a379a-dadc-4547-bdc6-cf8154d5166e" />
+
+
+<img width="918" height="464" alt="Screenshot 2026-07-26 at 10 58 16 AM" src="https://github.com/user-attachments/assets/4251c7b2-957d-4cfe-b35c-1b7b1c078cf5" />
+
+
+After delegation set now user(rahul) can create user and delete on RODC server:
+
+<img width="1021" height="750" alt="Screenshot 2026-07-26 at 11 01 02 AM" src="https://github.com/user-attachments/assets/2a26e790-b4e0-4045-88ae-a4b1f395ba13" />
+
 
