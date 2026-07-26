@@ -54,3 +54,17 @@ After delegation set now user(rahul) can create user and delete on RODC server:
 <img width="1021" height="750" alt="Screenshot 2026-07-26 at 11 01 02 AM" src="https://github.com/user-attachments/assets/2a26e790-b4e0-4045-88ae-a4b1f395ba13" />
 
 
+Change FSMO role another server(ADC server) step by step:
+
+<img width="888" height="505" alt="Screenshot 2026-07-26 at 3 43 24 PM" src="https://github.com/user-attachments/assets/ca380cd6-38d9-47be-8a7b-2f3985800824" />
+
+<img width="951" height="507" alt="Screenshot 2026-07-26 at 3 43 34 PM" src="https://github.com/user-attachments/assets/df040b77-5150-4a1f-8a71-deacfc42eef4" />
+
+<img width="920" height="493" alt="Screenshot 2026-07-26 at 3 43 49 PM" src="https://github.com/user-attachments/assets/2961fd5a-8903-4cb2-9ee5-2a608e670acc" />
+
+<img width="936" height="509" alt="Screenshot 2026-07-26 at 3 44 00 PM" src="https://github.com/user-attachments/assets/bb088f4a-1edc-4c8b-86f7-521add05d9fa" />
+
+
+
+
+
