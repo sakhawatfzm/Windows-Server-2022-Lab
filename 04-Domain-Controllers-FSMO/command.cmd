@@ -1,3 +1,3 @@
 netdom query fsmo
 mmc
-regsvr32 schmmgmt.dill
+regsvr32 schmmgmt.dll
