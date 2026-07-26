@@ -114,6 +114,8 @@ The last role is Schema master. Which is also we transfer to another server(ADC 
 
 
 Finally we can see that all FSMO roles transfer to another server
+
+So server2(adc server) becomes RootDC after all roles transfer to adc.
 <img width="849" height="439" alt="Screenshot 2026-07-26 at 4 17 07 PM" src="https://github.com/user-attachments/assets/2100f2c5-e88f-4462-a4dc-ae55785d15ab" />
 
 
