@@ -93,6 +93,34 @@ Now check again and as we can see that Domain Naming Master role also transfer t
 
 
 
+The last role is Schema master. Which is also we transfer to another server(ADC server):
+
+
+<img width="501" height="293" alt="Screenshot 2026-07-26 at 4 13 43 PM" src="https://github.com/user-attachments/assets/20fe21bc-5da4-4516-bd16-14797498e054" />
+
+
+<img width="916" height="470" alt="Screenshot 2026-07-26 at 4 15 54 PM" src="https://github.com/user-attachments/assets/ec2d7890-8865-4b11-b69d-e284b6b0a3a5" />
+
+
+<img width="887" height="435" alt="Screenshot 2026-07-26 at 4 16 14 PM" src="https://github.com/user-attachments/assets/aacbf95d-0043-4f4b-a57f-44191e729366" />
+
+
+<img width="470" height="333" alt="Screenshot 2026-07-26 at 4 16 22 PM" src="https://github.com/user-attachments/assets/b8ea9d59-41fc-4d15-9b72-9e8be6654bd2" />
+
+
+<img width="849" height="439" alt="Screenshot 2026-07-26 at 4 17 07 PM" src="https://github.com/user-attachments/assets/480197d4-eb8c-4809-87c7-fc1aadbdcf3a" />
+
+
+<img width="950" height="395" alt="Screenshot 2026-07-26 at 4 12 12 PM" src="https://github.com/user-attachments/assets/d401fbc9-fe89-42c2-89a6-432c4b869e85" />
+
+
+<img width="501" height="293" alt="Screenshot 2026-07-26 at 4 13 43 PM" src="https://github.com/user-attachments/assets/36cde955-e966-4acf-bdae-be87485b53f2" />
+
+
+
+
+
+
 
 
 
