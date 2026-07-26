@@ -54,7 +54,7 @@ After delegation set now user(rahul) can create user and delete on RODC server:
 <img width="1021" height="750" alt="Screenshot 2026-07-26 at 11 01 02 AM" src="https://github.com/user-attachments/assets/2a26e790-b4e0-4045-88ae-a4b1f395ba13" />
 
 
-Change FSMO role another server(ADC server) step by step:
+Change FSMO role transfer to another server(ADC server) step by step:
 
 <img width="888" height="505" alt="Screenshot 2026-07-26 at 3 43 24 PM" src="https://github.com/user-attachments/assets/ca380cd6-38d9-47be-8a7b-2f3985800824" />
 
@@ -63,6 +63,36 @@ Change FSMO role another server(ADC server) step by step:
 <img width="920" height="493" alt="Screenshot 2026-07-26 at 3 43 49 PM" src="https://github.com/user-attachments/assets/2961fd5a-8903-4cb2-9ee5-2a608e670acc" />
 
 <img width="936" height="509" alt="Screenshot 2026-07-26 at 3 44 00 PM" src="https://github.com/user-attachments/assets/bb088f4a-1edc-4c8b-86f7-521add05d9fa" />
+
+
+As we can see that already three roles transfer to  another server(ADC server):
+
+<img width="545" height="349" alt="Screenshot 2026-07-26 at 3 49 13 PM" src="https://github.com/user-attachments/assets/ee6d3ab8-102c-4dc2-a08f-4659fc2314d6" />
+
+Now move others two roles:
+
+Domain Naming Master role transfer to another server(ADC server):
+
+<img width="1023" height="559" alt="Screenshot 2026-07-26 at 3 55 09 PM" src="https://github.com/user-attachments/assets/70035ffc-4d3d-4a55-9503-adf6ce7c2b70" />
+
+
+<img width="976" height="512" alt="Screenshot 2026-07-26 at 3 55 20 PM" src="https://github.com/user-attachments/assets/fa783dff-fae9-474e-9efe-906388bf755e" />
+
+
+<img width="966" height="518" alt="Screenshot 2026-07-26 at 3 55 30 PM" src="https://github.com/user-attachments/assets/647a7f5b-20b3-4083-86cd-e8a9fbbd9027" />
+
+
+<img width="1008" height="550" alt="Screenshot 2026-07-26 at 3 55 49 PM" src="https://github.com/user-attachments/assets/319466c1-7f93-4a0f-92ec-dc0505cf98ec" />
+
+
+<img width="951" height="512" alt="Screenshot 2026-07-26 at 3 55 58 PM" src="https://github.com/user-attachments/assets/76b36271-2d71-447b-a20f-844c44690222" />
+
+Now check again and as we can see that Domain Naming Master role also transfer to another server(ADC server)
+
+<img width="584" height="148" alt="Screenshot 2026-07-26 at 3 56 32 PM" src="https://github.com/user-attachments/assets/f8e26ccb-0681-4d3a-be74-22dda0e862a2" />
+
+
+
 
 
 
