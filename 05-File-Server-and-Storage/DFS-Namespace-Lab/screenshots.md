@@ -6,4 +6,5 @@ Visual :
 First Pc1 joining to server(Domain joining)
 
 
-<img width="1067" height="552" alt="Screenshot 2026-07-27 at 4 10 50 PM" src="https://github.com/user-attachments/assets/aeb565e1-878e-4ca2-bd43-8a96c0f25d4e" />
+<img width="963" height="532" alt="Screenshot 2026-07-27 at 4 12 33 PM" src="https://github.com/user-attachments/assets/7369ff06-52f7-4bef-93f8-1961f825903e" />
+
