@@ -40,6 +40,25 @@ After increasing 4mb to 10mb I can paste file(5mb)
 
 <img width="977" height="464" alt="Screenshot 2026-07-27 at 11 13 29 AM" src="https://github.com/user-attachments/assets/f3a2a600-0ed8-4c28-ad8d-08222af32598" />
 
+Now move on next topic is File Screening Management:
+
+<img width="1109" height="541" alt="Screenshot 2026-07-27 at 12 42 22 PM" src="https://github.com/user-attachments/assets/47b588b3-d74f-4edf-aa69-5b1ff978e7ff" />
+
+<img width="1182" height="512" alt="Screenshot 2026-07-27 at 1 51 07 PM" src="https://github.com/user-attachments/assets/ae691341-2006-4918-8dac-b46b1852f63d" />
+
+<img width="1215" height="714" alt="Screenshot 2026-07-27 at 1 52 14 PM" src="https://github.com/user-attachments/assets/7d47c96e-f45a-4e31-a117-0d178e0cf832" />
+
+<img width="964" height="547" alt="Screenshot 2026-07-27 at 2 33 14 PM" src="https://github.com/user-attachments/assets/769bcb7a-18b4-4c77-84e4-cd04d341473e" />
+
+After remove restriction 
+<img width="726" height="630" alt="Screenshot 2026-07-27 at 2 36 21 PM" src="https://github.com/user-attachments/assets/71cc35dd-ac13-4262-a66b-e0d2fa29dc35" />
+
+Now I can paste image 
+<img width="1026" height="486" alt="Screenshot 2026-07-27 at 2 36 47 PM" src="https://github.com/user-attachments/assets/cc92b4a9-c49b-44f0-801b-ac51ac202824" />
+
+
+
+
 
 
 
