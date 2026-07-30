@@ -68,3 +68,5 @@ This repository contains hands-on labs covering core and advanced Windows Server
 - Security Filtering
 - Blocking Inheritance
 - GPO Management Best Practices
+
+View in Notion: https://app.notion.com/p/PHASE-3-Active-Directory-3812537f4beb80c69606e73892b797b1?source=copy_link
