@@ -1,1 +1,2 @@
-
+gpmc.msc
+gpupdate /force
